@@ -22,4 +22,3 @@ I'm a fullstack developer, but I prefer to be in the backend transforming data a
 
 ### GitHub Stats
 ![Craig Midwinter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=craigjmidwinter&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craigjmidwinter&count_private=true&layout=compact)]()
