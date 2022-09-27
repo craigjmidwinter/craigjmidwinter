@@ -17,7 +17,7 @@ I'm a fullstack developer, but I prefer to be in the backend transforming data a
   - ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
   - ![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat-square&logo=terraform&logoColor=white&color=7B42BC)
 
-- 💬 Ask me about: The Real Housewives or pretty much any other Bravo reality tv show...
+- 💬 Ask me about: Big Brother, The Real Housewives or pretty much any other Bravo reality tv show...
 
 
 ### GitHub Stats
