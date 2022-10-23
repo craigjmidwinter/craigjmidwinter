@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Craig
 
-I'm a fullstack developer, but I prefer to be in the backend transforming data and getting my hands dirty with integrations and infrastructure.
+I'm a lead developer at Hypergiant.  I like living in the backend transforming data and getting my hands dirty with integrations and infrastructure.
 
 ## 💫 About Me:
 😄 Pronouns: He/Him<br>
