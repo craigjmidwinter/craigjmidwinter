@@ -1,10 +1,12 @@
 # 👋 Hi! I'm Craig
 
-I'm a fullstack developer, but I prefer to be in the backend transforming data and getting my hands dirty with integrations and infrastructure.
+I'm a lead software developer, I like living in the backend transforming data and getting my hands dirty with integrations and infrastructure.
+
+In my spare time I host a podcast about The Real Housewives and other Bravo reality TV shows
 
 ## 💫 About Me:
 😄 Pronouns: He/Him<br>
-🔭 I’m currently working for [Hypergiant](https://hypergiant.com) on [Hyperdrive](https://hypergiant.com/platform)<br>💬 Ask me about Big Brother, The Real Housewives or pretty much any other Bravo reality tv show...<br>
+🔭 I’m currently working for [Hypergiant](https://hypergiant.com) on [CommandCenter](https://www.hypergiant.com/commandcenter/)<br>💬 Ask me about Big Brother, The Real Housewives or pretty much any other Bravo reality tv show...<br>
 
 📫 How to reach me: craig.j.midwinter@gmail.com
 
